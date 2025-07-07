@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "read": true,
+    "write": true,
+    "execute": true
+  },
+  "customCommands": {
+    "generate-prp": ".claude/commands/generate-prp.md",
+    "execute-prp": ".claude/commands/execute-prp.md"
+  }
+}
